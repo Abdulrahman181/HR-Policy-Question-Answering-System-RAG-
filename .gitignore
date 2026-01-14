@@ -1,0 +1,15 @@
+__pycache__/
+.env
+.cache/
+*.pyc
+.DS_Store
+
+# HuggingFace cache
+~/.cache/huggingface/
+.cache/huggingface/
+
+# Streamlit
+.streamlit/
+
+# OS
+Thumbs.db
